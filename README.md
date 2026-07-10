@@ -3,9 +3,8 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/Lenskart_Dashboard.png" alt="Lenskart Sales Analytics Dashboard" width="100%">
+  <img src="Images/dashboard.png" width="100%" alt="Lenskart Sales Analytics Dashboard">
 </p>
-
 ---
 
 ## 📌 Project Overview
