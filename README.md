@@ -3,7 +3,8 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="Lenskart Sales Analytics Dashboard" width="100%">
+  <img src="<img width="671" height="371" alt="image" src="https://github.com/user-attachments/assets/2c0e4f1c-982f-433e-a897-fe987b369562" />
+" alt="Lenskart Sales Analytics Dashboard" width="100%">
 </p>
 
 ---
@@ -11,7 +12,7 @@
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="Images/Project_Workflow.png" alt="Project Workflow" width="100%">
+  <img src="https://chatgpt.com/s/m_6a50a2b50a30819198fdf6b1e692ab6d" alt="Project Workflow" width="100%">
 </p>
 ---
 
