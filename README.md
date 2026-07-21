@@ -3,16 +3,8 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="./Images/Dashboard.png" alt="Lenskart Sales Analytics Dashboard" width="100%">
-</p>
+  <img width="668" height="378" alt="image" src="https://github.com/user-attachments/assets/919e26d6-8920-47d2-a884-f5907342da8e" />
 
----
-
-## 🔄 Project Workflow
-
-<p align="center">
-  <img src="./Images/Project_Workflow.png" alt="Lenskart Sales Analytics Dashboard Project Workflow" width="100%">
-</p>
 
 ---
 
